@@ -5,7 +5,8 @@
 > **Instituição:** Universidade Federal de Pernambuco (UFPE)  
 > **Curso:** Programa de Pos-Graduação em Engenharia Mecânica  
 > **Componente:** Disciplina eletiva   
-> **Autor:** Francisco Sotéro  
+> **Autor:** Francisco Sotero (francisco.sotero@ufpe.br)
+Laís de Moura (lais.rodrigues@ufpe.br)
 > **Professor:** Fábio Magnani, Prof. Tit., Dr. Eng. Mec. (fabio.magnani@ufpe.br)  
 
 ---
